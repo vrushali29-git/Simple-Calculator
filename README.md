@@ -1,4 +1,4 @@
 Simple Calculator 
 
-It is use the basic arithmetic operations.
+It is use to perform the basic arithmetic operations.
 languages used are HTML, CSS, JAVASCRIPT
